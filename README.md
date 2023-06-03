@@ -1,3 +1,4 @@
-# MTransL Run
+# MTransL 
+Run 
 
-new_model_1.py
+python new_model_1.py
