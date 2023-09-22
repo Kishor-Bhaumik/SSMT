@@ -5,7 +5,6 @@ import torch.nn.functional as F
 
 from odegcn import ODEG
 
-
 class Chomp1d(nn.Module):
     """
     extra dimension will be added by padding, remove it
