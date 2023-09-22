@@ -14,8 +14,6 @@ from lib.TrainInits import print_model_parameters
 from lib.utils import get_adjacency_matrix, scaled_Laplacian, cheb_polynomial
 from lib.metrics import MAE_torch
 
-
-
 ###
 
 ## notice: hardsigmoid is replaced with sigmoid from the module.py
