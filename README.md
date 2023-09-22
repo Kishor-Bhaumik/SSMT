@@ -2,7 +2,7 @@
 
 ![SSMT](figure/ssmt.png "Model Architecture")
 
-This is the official implementation of SSMT: Few-Shot Traffic Forecasting with Single Source Meta-Transfer Learning\
+This is the official implementation of SSMT: Few-Shot Traffic Forecasting with Single Source Meta-Transfer Learning , \
 Kishor Kumar Bhaumik, Minha Kim, Fahim Faisal Niloy and Simon S. Woo
 
 
