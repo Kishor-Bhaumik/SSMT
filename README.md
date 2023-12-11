@@ -18,5 +18,5 @@ python new_model_1.py
 To Test Run 
 
 ```
-python new_model_1.py
+python evaluate.py
 ```
