@@ -10,7 +10,13 @@ Kishor Kumar Bhaumik, Minha Kim, Fahim Faisal Niloy and Simon S. Woo
 Download dataset from [Google Drive](https://drive.google.com/file/d/16xbiRvh5jJx2A4Swv9dEMEz_Y0AEoQTM/view)
 
 ## SSMT 
-Run 
+To train Run 
+```
+python new_model_1.py
+```
+
+To Test Run 
+
 ```
 python new_model_1.py
 ```
